@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+form{
+    width: 550px;
+    margin: auto;
+}
+
+legend{
+    font-family: sans-serif;
+    color: black;
+    font-size: 13pt;
+    
+
+}
+
+fieldset{
+    margin-bottom: 20px;
+}
+
+form p{
+    text-indent: 0px; 
+
+}
+
+#sexo{
+    width: 150px;
+}
+
+#cNome{
+    margin-top: 5px;
+    display: block;
+}
+
+#cSenha{
+    margin-top: 5px;
+    display: block;
+
+}
+
+#cEmail{
+    margin-top: 5px;
+    display: block;
+}
+
+
+#cData{
+    display: block;
+    width: 155px;
+}
+
+#cRua{
+    margin-top: 5px;
+    display: block;
+}
+
+#cNum{
+    width: 50px;
+    margin-top: 5px;
+    display: block;
+}
+
+#cEst{
+    margin-top: 5px;
+    display: block;
+    width: 150px;
+}
+
+#cCid{
+    width: 150px;
+    margin-top: 5px;
+    display: block;
+}
+
+#cEmail{
+    margin-top: 5px;
+    display: block;
+}
+
+#cMsg{
+    margin-top: 5px;
+    display: block;
+}
+
+#cMsg{
+    margin-top: 5px;
+    display: block;
+}
+
+#cTot{
+    margin-top: 5px;
+    display: block;
+    width: 110px;
+}
+
+#cQtd{
+    margin-top: 5px;
+    display: block;
+    width: 80px;
+}
+
+
+input, textarea{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+    background-color: rgba(255, 255, 255, .1);
+}
+
+input:hover, textarea:hover{
+    background-color: #dddddd;
+}
+
+
+#usuario{
+    background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;
+
+}
+
+#endereco{
+    background: url("../_imagens/icone-endereco.png") no-repeat 95% 95%;
+
+}
+
+#mensagem{
+    background: url("../_imagens/icone-mensagem.png") no-repeat 95% 95%;
+
+}
+
+#pedido{
+    background: url("../_imagens/icone-pagamento.png") no-repeat 95% 95%;
+
+}
